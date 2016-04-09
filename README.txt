@@ -1,7 +1,7 @@
-Quant Quest Materials
+Quant Quest README	
 
 Team:
-William, Ashutosh, JiaYin, and Kevin
+William, Ashutosh, JiaYan, and Kevin
 
 
 Libraries Used:
